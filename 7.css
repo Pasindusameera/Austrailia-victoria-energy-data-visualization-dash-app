@@ -1,0 +1,38 @@
+/* Body */
+body {
+    background-color: #00fdfdd3; /* Set background color to black */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Specify the font family for the entire body */
+    font-size: 25px;
+    
+}
+
+
+/* Header */
+h1{
+    color: rgb(255, 255, 255); /* Header text color */
+    text-align: center; /* Center-align header text */
+    background-color: #000000; /* Header background color */
+    padding: 17px; /* Add padding to the header */
+    margin: 0; /* Remove margin for a cleaner appearance */
+    font-style: Times New Roman;
+    
+}
+h3{
+    color: rgb(255, 255, 255); /* Header text color */
+    text-align: center; /* Center-align header text */
+    background-color: #a0a0a0; /* Header background color */
+    padding: 10px; /* Add padding to the header */
+    margin: 0; /* Remove margin for a cleaner appearance */
+    font-style: Times New Roman;
+    
+}
+/* Custom styles for the plot attribution */
+.plot-attribution {
+    font-size: 12px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+}
+
